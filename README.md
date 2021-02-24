@@ -4,8 +4,7 @@
 **sukrucnCbc/sukrucnCbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-!(gif)[https://rendering-prod.s3.amazonaws.com/final/c06d3560ee9f5dd8161f52b2/7da2356057bd1543cb43b5d1.mp4]
-### [Readme sayfasında görünecek kısımı buraya](link adresini ise bu kısma yazmalısınız)
+## [gif](https://drive.google.com/file/d/1GdI5q7dmrxPOk3mhRI5hmo4ZAMhLnRJk/view?usp=sharing)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
