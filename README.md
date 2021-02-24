@@ -2,7 +2,7 @@
 ![gif](https://github.com/sukrucnCbc/sukrucnCbc/blob/main/biogif.gif)
 
 ### 🛠 &nbsp; Programming Languages:
-        ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 <h2 align="center"> </h2>
 <p align="center">
