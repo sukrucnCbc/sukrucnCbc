@@ -1,8 +1,11 @@
 
 ![gif](https://github.com/sukrucnCbc/sukrucnCbc/blob/main/biogif.gif)
 
+
+- 🌱 On the way of learning *Machine Learning* & *Data Science*.
+Technologies I've been learning and using so far :
 ### 🛠 &nbsp; Programming Languages:
-[![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)](https://dinhanhthi.com/#python)
+[![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)](https://dinhanhthi.com/img/about/python.svg)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](https://dinhanhthi.com/#web_development)
 [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)](https://dinhanhthi.com/#web_development)
  
@@ -23,24 +26,6 @@
 
 
 
-<h2 align="center"> </h2>
-<p align="center">
-
-
-  <img height="32" width="32" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" />
-   <img height="32" width="32" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" />
-   <img height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
-   <img height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/256_Php_logo-512.png" />
-   <img height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" />
-   <img height="32" width="32" src="https://cdn0.iconfinder.com/data/icons/HTML5/256/HTML_Logo.png" />
-     <img height="32" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" />
-     <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" />
-     <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" />
-
-
-
-
-</p>
 
 
 <hr>
