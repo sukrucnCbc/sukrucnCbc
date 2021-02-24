@@ -1,5 +1,5 @@
 ### Hi there 👋
-[gif](https://yazilim.net/big-data-buyuk-veri-nedir-nasil-kullanilir-ne-ise-yarar-hpCEEziwl)
+![gif](https://cdn.yazilim.net/files/uploads/default/big-databuyuk-veri-nedir-nasil-kullanilir-ne-ise-yarar-8a98d31e74f693682850.jpg)
 
 
 
