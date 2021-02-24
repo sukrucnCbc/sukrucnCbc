@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 !(gif)[https://rendering-prod.s3.amazonaws.com/final/c06d3560ee9f5dd8161f52b2/7da2356057bd1543cb43b5d1.mp4]
+[Readme sayfasında görünecek kısımı buraya](link adresini ise bu kısma yazmalısınız)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
