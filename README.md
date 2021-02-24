@@ -10,7 +10,7 @@
    <img height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/256_Php_logo-512.png" />
    <img height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" />
    <img height="32" width="32" src="https://cdn0.iconfinder.com/data/icons/HTML5/256/HTML_Logo.png" />
-     <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" />
+     <img height="32" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" />
      <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png " />
 
 
