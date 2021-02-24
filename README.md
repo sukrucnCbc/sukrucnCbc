@@ -2,13 +2,19 @@
 ![gif](https://github.com/sukrucnCbc/sukrucnCbc/blob/main/biogif.gif)
 
 
-https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png
-
-
 <h2 align="center"> </h2>
 <p align="center">
   <img height="32" width="32" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" />
    <img height="32" width="32" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" />
+   <img height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
+   <img height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/256_Php_logo-512.png" />
+   <img height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" />
+   <img height="32" width="32" src="https://cdn0.iconfinder.com/data/icons/HTML5/256/HTML_Logo.png" />
+     <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/642px-CSS.3.svg.png" />
+
+
+  
+
 
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
