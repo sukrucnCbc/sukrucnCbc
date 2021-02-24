@@ -7,7 +7,7 @@
   <ul>
     <li>
       <p>Programming Languages:
-        <img height="32" width="32" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" />
+        <br><img height="32" width="32" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" />
  </p>
   </ul>
   <img height="32" width="32" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" />
