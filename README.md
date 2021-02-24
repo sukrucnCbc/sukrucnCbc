@@ -1,21 +1,20 @@
 
 ![gif](https://github.com/sukrucnCbc/sukrucnCbc/blob/main/biogif.gif)
 
-<!--
-**Ileriayo/ileriayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->  
 
+https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png
 
 
 <h2 align="center"> </h2>
 <p align="center">
   <img height="32" width="32" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" />
+   <img height="32" width="32" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" />
 
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center"> Python,  Azure.</p>
+
 
 <hr>
 
