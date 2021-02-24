@@ -2,6 +2,8 @@
 ![gif](https://github.com/sukrucnCbc/sukrucnCbc/blob/main/biogif.gif)
 
 ### 🛠 &nbsp; Programming Languages:
+
+<img height="32" width="32" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" />
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -9,10 +11,8 @@
 
 <h2 align="center"> </h2>
 <p align="center">
-      
 
-        <br><img height="32" width="32" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" 
-  </ul>
+
   <img height="32" width="32" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" />
    <img height="32" width="32" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" />
    <img height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
