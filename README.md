@@ -1,14 +1,14 @@
 
 ![gif](https://github.com/sukrucnCbc/sukrucnCbc/blob/main/biogif.gif)
 
+### 🛠 &nbsp; Programming Languages:
+        ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 <h2 align="center"> </h2>
 <p align="center">
-  <ul>
-    <li>
-      <p>Programming Languages:
-        <br><img height="32" width="32" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" />
- </p>
+      
+
+        <br><img height="32" width="32" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" 
   </ul>
   <img height="32" width="32" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" />
    <img height="32" width="32" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" />
