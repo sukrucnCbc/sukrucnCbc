@@ -1,5 +1,5 @@
 ### Hi there 👋
-![gif](https://drive.google.com/file/d/1GdI5q7dmrxPOk3mhRI5hmo4ZAMhLnRJk/view?usp=sharing)
+![gif](https://github.com/sukrucnCbc/sukrucnCbc/blob/main/biogif.gif)
 
 
 
