@@ -1,3 +1,5 @@
+![gif](https://github.com/sukrucnCbc/sukrucnCbc/blob/main/biogif.gif)
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=sukrucnCbc&show_icons=true&theme=dark">
 
 # Merhaba, ben Şükrücan Cebeci 👋
@@ -7,8 +9,6 @@
   <a target="_blank"href=https://www.kaggle.com/sukrucncbc><img src="https://img.shields.io/badge/Kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:sukrucan.ieeektu@gmail.com?subject=Hello%20Sukrucan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
  <a href="https://instagram.com/sukrucncbc"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  <a target="_blank"href="https://medium.com/@sukrucanc"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=black" /></a>&nbsp;&nbsp;&nbsp; 
 </p>
-
-![gif](https://github.com/sukrucnCbc/sukrucnCbc/blob/main/biogif.gif)
 
 - :bulb: I'm interested in all things data: **Big Data, Cloud, and Data Science**
 
