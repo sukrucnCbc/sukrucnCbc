@@ -1,5 +1,6 @@
 [![Şükrücan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukrucnCbc&show_icons=true&theme=dark)](https://github.com/sukrucnCbc/github-readme-stats)
 
+# Merhaba, ben Şükrücan Cebeci! 
 ![gif](https://github.com/sukrucnCbc/sukrucnCbc/blob/main/biogif.gif)
 
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
