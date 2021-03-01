@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=sukrucnCbc&show_icons=true&theme=dark">
 
-# Merhaba, ben Şükrücan Cebeci! 
+# Merhaba, ben Şükrücan Cebeci 👋
 
 <p align="left">
  <a target="_blank"href="https://www.linkedin.com/in/sukrucancebeci/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
