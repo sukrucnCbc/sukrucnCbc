@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=sukrucnCbcshow_icons=true&theme=dark">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=sukrucnCbc&show_icons=true&theme=dark">
 
 # Merhaba, ben Şükrücan Cebeci 👋
 
